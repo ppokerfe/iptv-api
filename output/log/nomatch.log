@@ -239,5 +239,11 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 广东 Ⅰ 韶关公共台 (720p) [Not 24/7],https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
 广东 Ⅰ 韶关综合台 (720p) [Not 24/7],https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 广东卫视 (2160p),http://118.81.195.79:9003/hls/26/index.m3u8
-ABN China (720p),https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 广水新闻综合 [Geo-blocked],http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
+广西卫视 (576p),http://118.81.195.79:9003/hls/27/index.m3u8
+康巴卫视 (720p) [Not 24/7],http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
+康巴卫视 (576p),http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8
+延边卫视 (576p),http://223.110.245.139/PLTV/4/224/3221227002/index.m3u8
+延边卫视 (576p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227002/index.m3u8
+延边新闻综合 [Geo-blocked],https://stream2.jlntv.cn/jlyb/sd/live.m3u8
+建安电视台 (1080p) [Not 24/7],http://live.dxhmt.cn:9081/tv/11003-1.m3u8
